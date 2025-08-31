@@ -1,0 +1,2 @@
+Expense Sharing Mobile Application | React Native & Redux
+Developed a full-featured expense splitting application using Expo framework, implementing complex financial calculations and debt settlement algorithms. Built with React Native for cross-platform compatibility, Redux Toolkit for state management, and React Navigation for seamless user experience. Features include multi-participant expense tracking, custom split configurations, automated debt netting, and real-time balance calculations with support for multiple currencies.
